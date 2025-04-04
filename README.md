@@ -1,4 +1,4 @@
-# tharte.github.io
+# Talks
 
 [R/Finance 2022](https://rinfinance.s3.amazonaws.com/past.rinfinance.com/agenda/2022/ThomasHarte.html)
 
