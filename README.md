@@ -6,6 +6,14 @@
 
 [R package: al](https://github.com/tharte/al)
 
-[R/Finance 2022](https://rinfinance.s3.amazonaws.com/past.rinfinance.com/agenda/2022/ThomasHarte.html)
+## R/Finance 2022
 
-[R/Finance 2016]( http://tharte.github.io/mbt)
+[Treezer Goode: The Curious Tale of a Wood that needed the Trees](https://rinfinance.s3.amazonaws.com/past.rinfinance.com/agenda/2022/ThomasHarte.html)
+
+[Python package: parsearg](https://github.com/tharte/parsearg)
+
+## R/Finance 2016
+
+[Modern Bayesian Tools for Time Series Analysis]( http://tharte.github.io/mbt)
+
+[Source code](https://github.com/tharte/mbt)
