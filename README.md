@@ -12,8 +12,33 @@
 
 [Python package: parsearg](https://github.com/tharte/parsearg)
 
+## R/Finance 2019
+
+[Hedging the Unhedgeable: Hedging Risk when Prices are not Observable](https://rinfinance.s3.amazonaws.com/past.rinfinance.com/agenda/2019/ThomasHarte.pdf)
+
+## R/Finance 2018
+
+[Trading the Untradable: Pricing Derivatives when Prices are not Observable](https://github.com/tharte/talks/blob/master/rinfinance-2018.pdf)
+
+## R/Finance 2017
+
+[The PE Package: Modeling Private Equity in the 21st Century](http://past.rinfinance.com/agenda/2017/talk/ThomasHarte.pdf)
+
 ## R/Finance 2016
 
-[Modern Bayesian Tools for Time Series Analysis]( http://tharte.github.io/mbt)
+[Modern Bayesian Tools for Time Series Analysis](http://tharte.github.io/mbt)
 
 [Source code](https://github.com/tharte/mbt)
+
+## Time Series & Risk Management: 2015
+
+NYU Courant: 2015-04-14
+
+Baruch College: 2015-04-22
+
+[Two Tools of a Risk Quant: Time Series Analysis and Value at Risk](https://github.com/tharte/talks/blob/master/Baruch_TimeSeries_2015-04-22.pdf)
+
+## R/Finance 2013
+
+[Pricing FX Forwards: Tricks of the Trade](https://rinfinance.s3.amazonaws.com/past.rinfinance.com/agenda/2013/talk/ThomasHarte.pdf)
+
