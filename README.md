@@ -8,13 +8,9 @@
 
 ## R/Finance 2022
 
-### Conference site
+[Treezer Goode: The Curious Tale of a Wood that needed the Trees](https://rinfinance.s3.amazonaws.com/past.rinfinance.com/agenda/2022/ThomasHarte.html) (Conference site)
 
-[Treezer Goode: The Curious Tale of a Wood that needed the Trees](https://rinfinance.s3.amazonaws.com/past.rinfinance.com/agenda/2022/ThomasHarte.html)
-
-### Permanent link (GitHub.io pages)
-
-[Treezer Goode: The Curious Tale of a Wood that needed the Trees](http://tharte.github.io/rfinance-2022)
+[Treezer Goode: The Curious Tale of a Wood that needed the Trees](http://tharte.github.io/rfinance-2022) (GitHub.io pages)
 
 [Python package: parsearg](https://github.com/tharte/parsearg)
 
