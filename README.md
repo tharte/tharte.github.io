@@ -1,9 +1,5 @@
 # Talks
 
-## R/Finance 2022 [Alt]
-
-[Treezer Goode: The Curious Tale of a Wood that needed the Trees](http://tharte.github.io/try)
-
 ## R/Finance 2024
 
 [A Cunning Plan: The Lambda Calculus, Lisp, Scheme, and R](https://github.com/tharte/al/blob/master/inst/rfinance-2024-harte.pdf)
@@ -12,7 +8,13 @@
 
 ## R/Finance 2022
 
+### Conference site
+
 [Treezer Goode: The Curious Tale of a Wood that needed the Trees](https://rinfinance.s3.amazonaws.com/past.rinfinance.com/agenda/2022/ThomasHarte.html)
+
+### Permanent link (GitHub.io pages)
+
+[Treezer Goode: The Curious Tale of a Wood that needed the Trees](http://tharte.github.io/rfinance-2022)
 
 [Python package: parsearg](https://github.com/tharte/parsearg)
 
