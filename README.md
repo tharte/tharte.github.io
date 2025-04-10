@@ -1,5 +1,11 @@
 # Talks
 
+## R/Finance 2025
+
+[Parsing arbitrary FIX messages in Scala: Parsing arbitrary FIX messages in Scala](https://tharte.github.com/rfinance-2025)
+
+[Scala package: six](https://github.com/tharte/six) forthcoming...
+
 ## R/Finance 2024
 
 [A Cunning Plan: The Lambda Calculus, Lisp, Scheme, and R](https://github.com/tharte/al/blob/master/inst/rfinance-2024-harte.pdf)
