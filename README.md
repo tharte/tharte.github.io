@@ -2,7 +2,7 @@
 
 ## R/Finance 2025
 
-[Parsing arbitrary FIX messages in Scala: Parsing arbitrary FIX messages in Scala](https://tharte.github.io/rfinance-2025)
+[Parsing arbitrary FIX messages in Scala: When to engage the type system](https://tharte.github.io/rfinance-2025)
 
 [Scala package: six](https://github.com/tharte/six) forthcoming...
 
